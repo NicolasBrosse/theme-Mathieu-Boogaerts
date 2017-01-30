@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2017-01-18 00:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-01-22 18:02+0000\n"
+"Language-Team: French (France)\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"Last-Translator: Nicolas Brosse <contact@nicolasbrosse.fr>\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"Language: fr-FR"
+
+#: functions.php:92
+msgid "Add widgets here."
+msgstr "Ajouter des widget ici."
+
+#: comments-wall.php:37
+msgid "Send"
+msgstr "Envoyer"
+
+#. %s: post title
+#: inc/template-tags.php:65
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+"Laisser un commentaire<span class=\"screen-reader-text\"> sur %s</span>"
+
+#. Name of the theme
+msgid "matboog"
+msgstr "matboog"
+
+#. Description of the theme
+msgid ""
+"Thème basé sur le starter thème \\\"underscore\\\" pour le site web de "
+"Mathieu Boogaerts."
+msgstr ""
+"Thème basé sur le starter thème \\\"underscore\\\" pour le site web de "
+"Mathieu Boogaerts."
+
+#. Author of the theme
+msgid "Nicolas Brosse"
+msgstr "Nicolas Brosse"
+
+#. Author URI of the theme
+msgid "http://nicolasbrosse.fr"
+msgstr "http://nicolasbrosse.fr"
+
+# @ _s
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Cette page n&rsquo;existe pas sur le site !"
+
+# @ _s
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Il semblerait que rien n’a été trouvé à cette adresse. Essayer l'un des "
+"liens ci-dessous ?"
+
+# @ _s
+#: 404.php:33
+msgid "Most Used Categories"
+msgstr "Catégories les plus utilisées"
+
+# @ _s
+#. translators: %1$s: smiley
+#: 404.php:51
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Essayer de regarder dans les archives mensuelles. %1$s"
+
+# @ _s
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Résultat de recherche pour : %s"
+
+# @ _s
+#: footer.php:18
+msgid "https://wordpress.org/"
+msgstr "https://fr.wordpress.org/"
+
+# @ _s
+#: footer.php:18
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Fait avec %s"
+
+# @ _s
+#: footer.php:20
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr "Thème: %1$s par %2$s."
+
+# @ _s
+#: functions.php:47
+msgid "Primary"
+msgstr "Primaire"
+
+# @ _s
+#: functions.php:90
+msgid "Sidebar"
+msgstr "sidebar"
+
+# @ _s
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un commentaire sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s commentaires sur &ldquo;%2$s&rdquo;"
+
+# @ _s
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+# @ _s
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr "Commentaires plus anciens"
+
+# @ _s
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr "Commentaires plus récents"
+
+# @ _s
+#: comments.php:78 comments-wall.php:60
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+# @ _s
+#: header.php:24
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+# @ _s
+#: header.php:29
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+# @ _s
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Posté le %s"
+
+# @ _s
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "par %s"
+
+# @ _s
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ", "
+
+# @ _s
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Posté dans %1$s"
+
+# @ _s
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Taggé dans %1$s"
+
+# @ _s
+#. translators: %s: Name of current post
+#: inc/template-tags.php:72 template-parts/content-page.php:44
+#, php-format
+msgid "Edit %s"
+msgstr "Editer %s"
+
+# @ _s
+#. translators: %s: Name of current post.
+#: template-parts/content.php:50
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuer de lire %s <span class=\"meta-nav\">&rarr;</span>"
+
+# @ _s
+#: template-parts/content.php:55 template-parts/content-page.php:32
+msgid "Pages:"
+msgstr "Pages :"
+
+# @ _s
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Rien n'a été trouvé"
+
+# @ _s
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Prêt à publier votre premier post ? <a href=\"%1$s\">Commencer ici</a>."
+
+# @ _s
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé mais rien ne correspond à vos termes de recherche. Veuillez essayer "
+"avec d'autres mot-clefs"
+
+# @ _s
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"On dirait que nous ne pouvons trouver ce que vous recherchez. Utiliser le "
+"moteur de recherche pourra peut-être vous aider."
+
+# @ _s
+#. Theme URI of the plugin/theme
+msgid "http://underscores.me/"
+msgstr "http://underscores.me/"
