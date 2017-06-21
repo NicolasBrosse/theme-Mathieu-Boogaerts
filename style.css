@@ -264,7 +264,7 @@ th {
 /*--------------------------------------------------------------
 # Typography
 --------------------------------------------------------------*/
-@font-face{ 
+@font-face{
 	font-family: 'mathieu';
 	src: url('font/mathieu.eot');
 	src: url('font/mathieu.eot?#iefix') format('embedded-opentype'),
@@ -1023,7 +1023,7 @@ h2 {
 .postid-951 .comment-list li article div p {
     margin: 0.45rem 0;
     line-height: 0.9rem;
-    
+
 }
 .postid-951 .comment-meta {
     display: none;
@@ -1125,7 +1125,9 @@ h2 {
 .post-690 a,
 .post-700 a,
 .post-686 a,
-.post-780 a
+.post-780 a,
+.post-1173 a,
+.post-1184 a
 { color: #cd7e24; }
 
 
