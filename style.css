@@ -910,10 +910,10 @@ object {
 
 .menu-nav-fixe {
     text-transform: none;
-    text-align: center;
-    /*position: absolute;
+    text-align: left;
+    position: absolute;
     top: 1.5em;
-    min-height: 32px;
+    /*min-height: 32px;
     padding-top: 32px;
     position: fixed;
     top: 0;*/
