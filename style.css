@@ -928,11 +928,12 @@ object {
 }
 
 .entry-header {
-	padding-top: 3em; /* pour garder la même distance en hauteur avec les autres pages sans "entry-header" comme la page d'accueil */
+	/* padding-top: 3em;  pour garder la même distance en hauteur avec les autres pages sans "entry-header" comme la page d'accueil */
 }
 
 .post-7 .entry-content {
-    margin-top: 3em;
+	margin-top: 0;
+	/* margin-top: 3em; */
 }
 .entry-content p:first-child { /* afin que les pages sans images soient à la même hauteur que celles avec */
     margin-top: 0;
