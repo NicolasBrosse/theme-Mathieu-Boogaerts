@@ -1390,3 +1390,11 @@ h2 {
 /* Films : Clips "pourquoi pas" et "bizarre" */
 .post-630 a
 { color: #c51449; }
+
+/*--------------------------------------------------------------
+## Gestion de la traduction
+--------------------------------------------------------------*/
+.lyrics-notraduction {
+	/* l'introduction d'une div pour ne pas traduire dans Weglot enlève la marge supérieure initiale. Cela le corrige */
+	margin-top:1em;
+}
